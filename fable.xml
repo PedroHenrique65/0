@@ -16,6 +16,7 @@
     
     <agent 
       img="switchLock.png" x="100" y="100" width="30" 
+      img="switchLock.png" x="100" y="100" width="30" 
       height="100" on-touch="unlocked">		 
     	
       <unlocked img="switchUnlocked.png" />    
