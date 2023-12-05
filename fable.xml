@@ -15,7 +15,7 @@
     <agent img="floor3.png" x="400" y="0" width="100" height="100" />
     
     <agent 
-      img="switchLock.png" x="100" y="100" width="30" 
+      img="box.png" x="100" y="100" width="30" 
       img="switchLock.png" x="100" y="100" width="30" 
       height="100" on-touch="unlocked">		 
     	
