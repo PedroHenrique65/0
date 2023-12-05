@@ -1,5 +1,5 @@
 <fable>
-	<page background="bg.png">
+	<page background="bg_lab.png">
   
     <agent text="Clique no painel de controle para desbloquear a porta" 
       x="20" y="440" font-size="18" color="white" 
